@@ -53,7 +53,7 @@ El objetivo es desarrollar un servidor capaz de manejar solicitudes HTTP GET, PO
     "id": 1,
     "name": "John Doe",
     "email": "john@example.com"
-}
+}```
 ## Capturas
 
 
