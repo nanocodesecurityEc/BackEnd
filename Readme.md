@@ -1,11 +1,3 @@
-JSON de ejemplo para introducir en el los metodos
-{
-        "id": 1,
-        "name": "John Doe",
-        "email": "john@example.com"
-}
-
-
 # Servidor HTTP básico para una API de gestión de usuarios
 
 Este proyecto consiste en la implementación de un servidor HTTP básico utilizando JavaScript puro para crear una API simple de gestión de usuarios.
@@ -54,5 +46,11 @@ El objetivo es desarrollar un servidor capaz de manejar solicitudes HTTP GET, PO
 
 
 
-# BackEnd
-# BackEnd
+# JSON de ejemplo para introducir en el los metodos
+
+```json
+{
+    "id": 1,
+    "name": "John Doe",
+    "email": "john@example.com"
+}
