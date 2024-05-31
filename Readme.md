@@ -50,6 +50,7 @@ Se debe ejecutar el servidor en el puerto 3000
 
 ![image](https://github.com/nanocodesecurityEc/BackEnd/assets/168138135/7405e896-18a7-4352-b7da-bc5134c099ba)
 
+Ejemplo de consultas con extension POSTMAN
 ![image](https://github.com/nanocodesecurityEc/BackEnd/assets/168138135/1161a126-d4c6-4236-bf31-f04aef8488fb)
 ![image](https://github.com/nanocodesecurityEc/BackEnd/assets/168138135/33a04424-bb0c-41c1-a72b-ee332ddde978)
 ![image](https://github.com/nanocodesecurityEc/BackEnd/assets/168138135/053ff30f-545b-4b6c-a57d-5ceccbe9aae0)
