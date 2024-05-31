@@ -47,6 +47,8 @@ El objetivo es desarrollar un servidor capaz de manejar solicitudes HTTP GET, PO
 ## Capturas
 ![image](https://github.com/nanocodesecurityEc/BackEnd/assets/168138135/1161a126-d4c6-4236-bf31-f04aef8488fb)
 ![image](https://github.com/nanocodesecurityEc/BackEnd/assets/168138135/33a04424-bb0c-41c1-a72b-ee332ddde978)
+![image](https://github.com/nanocodesecurityEc/BackEnd/assets/168138135/74f6a813-11b5-4188-9fb8-d78c10804f21)
+![image](https://github.com/nanocodesecurityEc/BackEnd/assets/168138135/9c762069-efed-4c5d-8fdd-7c0b5a8d8166)
 
 # JSON de ejemplo para introducir en los metodos
 
