@@ -46,6 +46,8 @@ El objetivo es desarrollar un servidor capaz de manejar solicitudes HTTP GET, PO
 
 ## Capturas
 Se debe ejecutar el servidor en el puerto 3000
+
+
 ![image](https://github.com/nanocodesecurityEc/BackEnd/assets/168138135/7405e896-18a7-4352-b7da-bc5134c099ba)
 
 ![image](https://github.com/nanocodesecurityEc/BackEnd/assets/168138135/1161a126-d4c6-4236-bf31-f04aef8488fb)
