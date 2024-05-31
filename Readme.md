@@ -44,7 +44,7 @@ El objetivo es desarrollar un servidor capaz de manejar solicitudes HTTP GET, PO
 - Se implementa la persistencia de datos utilizando el sistema de archivos del servidor o una base de datos simple como JSON o SQLite.
 
 
-
+## Capturas
 
 # JSON de ejemplo para introducir en los metodos
 
@@ -53,8 +53,8 @@ El objetivo es desarrollar un servidor capaz de manejar solicitudes HTTP GET, PO
     "id": 1,
     "name": "John Doe",
     "email": "john@example.com"
-}```
-## Capturas
+}
+
 
 
 
