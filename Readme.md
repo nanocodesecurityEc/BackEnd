@@ -46,7 +46,7 @@ El objetivo es desarrollar un servidor capaz de manejar solicitudes HTTP GET, PO
 
 
 
-# JSON de ejemplo para introducir en el los metodos
+# JSON de ejemplo para introducir en los metodos
 
 ```json
 {
