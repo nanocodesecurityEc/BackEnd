@@ -54,7 +54,7 @@ El objetivo es desarrollar un servidor capaz de manejar solicitudes HTTP GET, PO
     "name": "John Doe",
     "email": "john@example.com"
 }
-# Capturas
+## Capturas
 
 ![image](https://github.com/nanocodesecurityEc/BackEnd/assets/168138135/0dac9aa9-4d10-4fa0-9f23-7f8639dc4cca)
 ![image](https://github.com/nanocodesecurityEc/BackEnd/assets/168138135/1c172d06-a243-46dc-a5fa-098cb450d1f1)
